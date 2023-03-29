@@ -668,7 +668,7 @@ export default function Home() {
                             </div>
                             <div className={styles.desc}>
                                 {t('apiKeyRequiredTip2')}
-                                <Link href="https://openai.com" target="_blank">
+                                <Link href="https://platform.openai.com/account/api-keys" target="_blank">
                                     Open Ai Platform
                                 </Link>
                             </div>
